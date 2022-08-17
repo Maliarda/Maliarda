@@ -4,7 +4,7 @@
 ![I am a beginner backend developer](https://images.wallpaperscraft.ru/image/single/lisa_risunok_fon_yazyk_66520_2560x1080.jpg)
 
 
-Skills: PYTHON / DJANGO / DRF / REST AP/ NGINX / PYTEST
+Languages and Tools: PYTHON/DJANGO/DJANGO REST FRAMEWORK/POSTGRESQL/DOCKER/DOCKER-COMPOS/YANDEX.CLOUD/HTML/CSS/LINUX/NGINX/UNITTEST.
 
 - 🔭 I’m currently working on my Yandex.Praktikum studiyng projects and my own cooking-book pet project 
 - ⚡ Fun fact: love foxes and baking 
