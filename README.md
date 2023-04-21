@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Maria
 #### I am a beginner backend developer.
-#### I want to learn how to create user-demanded, well-thought-out, maximally secure services.
+#### I want to create user-demanded, well-thought-out, maximally secure services.
 ![I am a beginner backend developer](https://images.wallpaperscraft.ru/image/single/lisa_risunok_fon_yazyk_66520_2560x1080.jpg)
 
 
