@@ -6,7 +6,7 @@
 
 Languages and Tools: PYTHON/DJANGO/DJANGO REST FRAMEWORK/FASTAPI/POSTGRESQL/SQLALCHEMY/DOCKER/DOCKER-COMPOSE/YANDEX.CLOUD/HTML/CSS/LINUX/NGINX/UNITTEST/PYTEST.
 
-- 🔭 I’m currently working on my Yandex.Praktikum studiyng projects and my own cooking-book pet project 
+- 🔭 I’m currently improving my skills at work and working on my own cooking-book pet project 
 - ⚡ Fun fact: love foxes and baking 
 
 
